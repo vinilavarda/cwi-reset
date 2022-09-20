@@ -1,3 +1,3 @@
 # cwi-reset
-Module 3 exercises of CWI Reset
+CWI Reset Module 3 exercises
 
